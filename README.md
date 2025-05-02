@@ -68,3 +68,7 @@ By default, this will start the server at: http://127.0.0.1:8000/
 Visit http://127.0.0.1:8000/admin to access Django admin
 
 Visit your API endpoints (e.g., http://127.0.0.1:8000/api/patients/)
+
+
+![My Project Screenshot](https://ibb.co/XxDMnxVR)
+
