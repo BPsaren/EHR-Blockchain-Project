@@ -69,6 +69,4 @@ Visit http://127.0.0.1:8000/admin to access Django admin
 
 Visit your API endpoints (e.g., http://127.0.0.1:8000/api/patients/)
 
-
-![My Project Screenshot](https://ibb.co/XxDMnxVR)
-
+<a href="https://ibb.co/XxDMnxVR"><img src="https://i.ibb.co/XxDMnxVR/tabular.png" alt="tabular" border="0"></a>
