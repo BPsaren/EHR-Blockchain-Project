@@ -72,17 +72,19 @@ I. Add truffule-config in Ganache
 
 ![App Screenshot](https://github.com/BPsaren/EHR-Blockchain-Project/blob/4923748c1dacdb2aad8e7dc5cc352e91360f6b89/ganache_truffle.PNG)
 
-II. Starts development server (frontend)
-
-```bash
-  yarn start
-```
 
 III. Deploys smart contracts to the blockchain (compiles + runs migrations)
 
 ```bash
   truffle migrate
 ```
+
+II. Starts development server (frontend)
+
+```bash
+  yarn start
+```
+
 
 ## Congratualiton you successfully deploy the server
 
