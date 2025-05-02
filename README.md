@@ -1,7 +1,7 @@
 # EHR-Blockchain-Project
 
 This project integrates health records with blockchain technology to secure patient data effectively. Utilizing Ethereum-based smart contracts and decentralized off-chain storage via the Inter Planetary File System (IPFS), the framework ensures data protection and scalability. Blockchain guarantees that only authorized personnel can update, delete, or exchange patient records, enhancing security and transparency. MetaMask is used for blockchain interactions, with Python powering the backend. HTML structures the content, and CSS adds styling. The framework employs strong symmetric encryption, blockchain, and IPFS to safeguard Electronic Health Records (EHR), delivering a robust and secure solution for the healthcare sector.
-https://chromewebstore.google.com/detail/nkbihfbeogaeaoehlefnkodbefgpgknn?utm_source=item-share-cb
+
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) (v14 or higher)
