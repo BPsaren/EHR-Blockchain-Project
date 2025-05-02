@@ -67,6 +67,8 @@ By default, this will start the server at: http://127.0.0.1:8000/
 ### 6. Verify It's Working or not
 Visit http://127.0.0.1:8000/admin to access Django admin
 
-Visit your API endpoints (e.g., http://127.0.0.1:8000/api/patients/)
+Visit your API endpoints (e.g., http://127.0.0.1:8000/
 
-<a href="https://ibb.co/XxDMnxVR"><img src="https://i.ibb.co/XxDMnxVR/tabular.png" alt="tabular" border="0"></a>
+## Screenshot
+![App Screenshot](https://github.com/BPsaren/EHR-Blockchain-Project/blob/3c7f387143d354aeb4a906b7e6d3184bb449b290/tabular.PNG)
+
